@@ -358,10 +358,3 @@ def extraerDatosMongoDB_a_dataframe(uri, bd, coleccion, batch_size=1000):
     return df
 
 
-
-
-
-
-
-
-
